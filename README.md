@@ -2,7 +2,7 @@
 
 This course tackles the issues that come up in the Big Data era. It delves into the processing of large datasets and extracting valuable information from them. The focus is on learning how to collect, store, retrieve, and analyze big data for useful insights in Internet applications. The course doesn't just cover data analytics; it also explores new ways of programming, like MapReduce and Spark RDD-based programs. It discusses how these methods can help engineers extract knowledge from data. The class includes hands-on examples of applying big data techniques for data science in the internet domain.
 
-### Here, a short description of each lab is provided:
+#### Here, a short description of each lab is provided:
 
 > In the "Introduction to Spark" lab, we learn how to run a simple Spark program using the Big Data cluster of Politecnico.
 
